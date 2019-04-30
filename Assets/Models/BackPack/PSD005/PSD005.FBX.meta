@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 19ce4827c8e725d4d93481eb65a00b8e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: EffectEnd01
+    100002: EffectEnd02
+    100004: EffectEnd03
+    100006: L_Booster
+    100008: L_Link
+    100010: //RootNode
+    100012: PSD005
+    100014: PSD005 1
+    100016: PSD005_Cover
+    100018: R_Booster
+    100020: R_Link
+    400000: EffectEnd01
+    400002: EffectEnd02
+    400004: EffectEnd03
+    400006: L_Booster
+    400008: L_Link
+    400010: //RootNode
+    400012: PSD005
+    400014: PSD005 1
+    400016: PSD005_Cover
+    400018: R_Booster
+    400020: R_Link
+    4300000: PSD005
+    7400000: Open
+    7400002: Close
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: PSD005 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 4
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open
+      takeName: Take 001
+      firstFrame: 14
+      lastFrame: 23
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PSD005
+        weight: 1
+      - path: PSD005/EffectEnd01
+        weight: 1
+      - path: PSD005/L_Link
+        weight: 1
+      - path: PSD005/L_Link/L_Booster
+        weight: 1
+      - path: PSD005/L_Link/L_Booster/EffectEnd02
+        weight: 1
+      - path: PSD005/PSD005_Cover
+        weight: 1
+      - path: PSD005/R_Link
+        weight: 1
+      - path: PSD005/R_Link/R_Booster
+        weight: 1
+      - path: PSD005/R_Link/R_Booster/EffectEnd03
+        weight: 1
+      - path: PSD005 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Close
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 13
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PSD005
+        weight: 1
+      - path: PSD005/EffectEnd01
+        weight: 1
+      - path: PSD005/L_Link
+        weight: 1
+      - path: PSD005/L_Link/L_Booster
+        weight: 1
+      - path: PSD005/L_Link/L_Booster/EffectEnd02
+        weight: 1
+      - path: PSD005/PSD005_Cover
+        weight: 1
+      - path: PSD005/R_Link
+        weight: 1
+      - path: PSD005/R_Link/R_Booster
+        weight: 1
+      - path: PSD005/R_Link/R_Booster/EffectEnd03
+        weight: 1
+      - path: PSD005 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: f2286c1c57c89014199c06f8449adaad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_Lid_Bone01
+    100002: B_Lid_Bone02
+    100004: BackPack_Bone
+    100006: C_Booster_Bone01
+    100008: C_Booster_Bone02
+    100010: L_Booster_Bone01
+    100012: L_Booster_Bone02
+    100014: L_Wing_Bone01
+    100016: L_Wing_Bone02
+    100018: //RootNode
+    100020: PBM001_B_Lid
+    100022: PBM002
+    100024: PBN001_C_Booster
+    100026: PBN001_L_Booster
+    100028: PBN001_L_Wing
+    100030: PBN001_R_Booster
+    100032: PBN001_R_Wing
+    100034: PBN001_T_Lid
+    100036: R_Booster_Bone01
+    100038: R_Booster_Bone02
+    100040: R_Wing_Bone01
+    100042: R_Wing_Bone02
+    400000: B_Lid_Bone01
+    400002: B_Lid_Bone02
+    400004: BackPack_Bone
+    400006: C_Booster_Bone01
+    400008: C_Booster_Bone02
+    400010: L_Booster_Bone01
+    400012: L_Booster_Bone02
+    400014: L_Wing_Bone01
+    400016: L_Wing_Bone02
+    400018: //RootNode
+    400020: PBM001_B_Lid
+    400022: PBM002
+    400024: PBN001_C_Booster
+    400026: PBN001_L_Booster
+    400028: PBN001_L_Wing
+    400030: PBN001_R_Booster
+    400032: PBN001_R_Wing
+    400034: PBN001_T_Lid
+    400036: R_Booster_Bone01
+    400038: R_Booster_Bone02
+    400040: R_Wing_Bone01
+    400042: R_Wing_Bone02
+    4300000: PBM002
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: PBM002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

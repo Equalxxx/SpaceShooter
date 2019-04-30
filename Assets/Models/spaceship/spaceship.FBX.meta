@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 9be40f1d39d65ea4fbd9edab743991a6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_Booster_EffectEnd
+    100002: Cannon_EffectEnd
+    100004: Core_EffectEnd
+    100006: L_Beam_EffectEnd01
+    100008: L_Beam_EffectEnd02
+    100010: L_Beam_EffectEnd03
+    100012: L_Beam_EffectEnd04
+    100014: L_Beam_EffectEnd05
+    100016: L_Beam_EffectEnd06
+    100018: L_Beam_EffectEnd07
+    100020: L_Beam_EffectEnd08
+    100022: L_Beam_EffectEnd09
+    100024: L_Beam_EffectEnd10
+    100026: L_Beam_EffectEnd11
+    100028: L_Beam_EffectEnd12
+    100030: L_Beam_EffectEnd13
+    100032: L_Booster_EffectEnd
+    100034: L_Missile_EffectEnd01
+    100036: L_Missile_EffectEnd02
+    100038: L_Missile_EffectEnd03
+    100040: L_Missile_EffectEnd04
+    100042: L_Shra_EffectEnd
+    100044: M_keeper_outdoor
+    100046: M_keeper_outdoor 1
+    100048: R_Beam_EffectEnd01
+    100050: R_Beam_EffectEnd02
+    100052: R_Beam_EffectEnd03
+    100054: R_Beam_EffectEnd04
+    100056: R_Beam_EffectEnd05
+    100058: R_Beam_EffectEnd06
+    100060: R_Beam_EffectEnd07
+    100062: R_Beam_EffectEnd08
+    100064: R_Beam_EffectEnd09
+    100066: R_Beam_EffectEnd10
+    100068: R_Beam_EffectEnd11
+    100070: R_Beam_EffectEnd12
+    100072: R_Beam_EffectEnd13
+    100074: R_Booster_EffectEnd
+    100076: R_Missile_EffectEnd01
+    100078: R_Missile_EffectEnd02
+    100080: R_Missile_EffectEnd03
+    100082: R_Missile_EffectEnd04
+    100084: R_Shra_EffectEnd
+    100086: Shrapnel_door
+    100088: //RootNode
+    100090: T_Booster_EffectEnd
+    400000: B_Booster_EffectEnd
+    400002: Cannon_EffectEnd
+    400004: Core_EffectEnd
+    400006: L_Beam_EffectEnd01
+    400008: L_Beam_EffectEnd02
+    400010: L_Beam_EffectEnd03
+    400012: L_Beam_EffectEnd04
+    400014: L_Beam_EffectEnd05
+    400016: L_Beam_EffectEnd06
+    400018: L_Beam_EffectEnd07
+    400020: L_Beam_EffectEnd08
+    400022: L_Beam_EffectEnd09
+    400024: L_Beam_EffectEnd10
+    400026: L_Beam_EffectEnd11
+    400028: L_Beam_EffectEnd12
+    400030: L_Beam_EffectEnd13
+    400032: L_Booster_EffectEnd
+    400034: L_Missile_EffectEnd01
+    400036: L_Missile_EffectEnd02
+    400038: L_Missile_EffectEnd03
+    400040: L_Missile_EffectEnd04
+    400042: L_Shra_EffectEnd
+    400044: M_keeper_outdoor
+    400046: M_keeper_outdoor 1
+    400048: R_Beam_EffectEnd01
+    400050: R_Beam_EffectEnd02
+    400052: R_Beam_EffectEnd03
+    400054: R_Beam_EffectEnd04
+    400056: R_Beam_EffectEnd05
+    400058: R_Beam_EffectEnd06
+    400060: R_Beam_EffectEnd07
+    400062: R_Beam_EffectEnd08
+    400064: R_Beam_EffectEnd09
+    400066: R_Beam_EffectEnd10
+    400068: R_Beam_EffectEnd11
+    400070: R_Beam_EffectEnd12
+    400072: R_Beam_EffectEnd13
+    400074: R_Booster_EffectEnd
+    400076: R_Missile_EffectEnd01
+    400078: R_Missile_EffectEnd02
+    400080: R_Missile_EffectEnd03
+    400082: R_Missile_EffectEnd04
+    400084: R_Shra_EffectEnd
+    400086: Shrapnel_door
+    400088: //RootNode
+    400090: T_Booster_EffectEnd
+    4300000: M_keeper_outdoor
+    9500000: //RootNode
+    13700000: M_keeper_outdoor 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
